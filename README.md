@@ -1,4 +1,4 @@
-I'm Wassim, I create tools for developers.
+Hey there! I'm Wassim, I create tools for developers.
 
 ### [Catsify](https://www.catsify.app) 
 Choose a unique and creative cat's name
