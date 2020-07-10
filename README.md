@@ -1,8 +1,5 @@
 I'm Wassim, I create tools for developers.
 
-
-## Current Projects 
-
 ### [Catsify](https://www.catsify.app) 
 Choose a unique and creative cat's name
 
