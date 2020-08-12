@@ -6,7 +6,7 @@ I'm Wassim, I create tools for developers. I am long time Angular contributor. I
 
 ![what happens when you type in an URL in a address bar in a browser](https://pbs.twimg.com/media/EcmG_g4WoAI2rTv?format=jpg&name=large)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=manekinekko&count_private=true&show_icons=true&theme=synthwave" />
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=manekinekko&count_private=true&show_icons=true&theme=synthwave" />-->
 
 ## My latest projects...
 
