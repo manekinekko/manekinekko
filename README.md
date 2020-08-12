@@ -1,5 +1,7 @@
 Hey there! I'm Wassim, I create tools for developers.
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=manekinekko&count_private=true&show_icons=true&theme=synthwave" />
+
 ### [Catsify](https://www.catsify.app) 
 Choose a unique and creative cat's name
 
