@@ -1,6 +1,14 @@
-Hey there! I'm Wassim, I create tools for developers.
+## Hey there! Nice to see you here!
+
+I'm Wassim, I create tools for developers. I am long time Angular contributor. I work at Microsoft as a Senior Developer Advocate specialized in JavaScript. I am the creator of [xlayers.dev](https://xlayers.dev), [ngx.tools](https://ngx.tools), [nitr.ooo](https://nitr.ooo), [hexa.run](https://hexa.run), [async-await.xyz](https://async-await.xyz), and other projects. I am also a [GDE for Google](https://developers.google.com/community/experts/directory/profile/profile-wassim_chegham) and an [ambassador for Auth0](https://auth0.com/ambassador-program).
+
+## My latest skechnote...
+
+![what happens when you type in an URL in a address bar in a browser](https://pbs.twimg.com/media/EcmG_g4WoAI2rTv?format=jpg&name=large)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=manekinekko&count_private=true&show_icons=true&theme=synthwave" />
+
+## My latest projects...
 
 ### [Catsify](https://www.catsify.app) 
 Choose a unique and creative cat's name
