@@ -15,7 +15,7 @@ I'm Wassim, I create tools for developers. I am a long time Angular active contr
 ### [Catsify](https://www.catsify.app) 
 Choose a unique and creative cat's name
 
-![](https://github.com/microsoft/static-web-apps-gallery-code-samples/raw/master/media/catsify.png)
+![image](https://user-images.githubusercontent.com/1699357/91197978-44e18980-e6fc-11ea-8ca0-51c1e6033b56.png)
 
 ### [Hue Action](https://www.hueaction.dev) 
 Github Action: Trigger your Philips Hue lights from your Github workflow.
