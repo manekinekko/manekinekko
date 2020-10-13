@@ -42,7 +42,7 @@ Nitro is the simplest way to build & deploy Serverless Node.js backends on Azure
 
 ![](https://user-images.githubusercontent.com/1699357/74333800-ef194580-4d98-11ea-9045-d9d6fd888196.png)
 
-## My public bio
+## Public Biography
 
 Wassim is a passionate and big supporter of Open Source. He currently works for Microsoft Azure as Senior Developer Advocate, specialized in JavaScript. In addition to being a contributor on Angular, Bazel and Node.js, Wassim is also the author of many tools for developers such as xlayers.dev and ngx.tools.
 For his many contributions to the developer community, Auth0 nominated Wassim as an Auth Ambassador, and Google nominated him as a GDE on Web technologies, Angular, Google Assistant as well as GCP. In his free time, Wassim is learning electronic music composition (EDM) as well as drawing and sketch noting. You can reach out to Wassim any time on his Twitter account @manekinekko or wassim.dev.
