@@ -39,7 +39,7 @@ The ultimate companion for the Azure CLI. Setup and deploy in seconds.
 
 ![](https://user-images.githubusercontent.com/1699357/74333685-bf6a3d80-4d98-11ea-90b3-335708599c2c.png)
 
-### [Nitr.ooo](https://www.nitr.ooo) 
+### [Nitro](https://victorious-ocean-0337ef81e.azurestaticapps.net) 
 Nitro is the simplest way to build & deploy Serverless Node.js backends on Azure.
 
 ![](https://user-images.githubusercontent.com/1699357/74333800-ef194580-4d98-11ea-9045-d9d6fd888196.png)
