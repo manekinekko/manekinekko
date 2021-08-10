@@ -14,6 +14,13 @@ I'm Wassim, I create tools for developers. I am a long time Angular active contr
 
 ## My latest projects...
 
+### [Thundr: The ultimate BaaS for Azure](https://thundr.dev)
+
+The ultimate backend as a service for Microsoft Azure (hosting, storage, authentication, database, workflows) 🚀
+
+![](https://thundr.dev/thundr-twitter-card.png)
+
+
 ### [Windows NT/2000 theme for VS Code](https://marketplace.visualstudio.com/items?itemName=wassimdev.windows-nt-vscode-theme&ssr=true)
 
 A Windows NT/2000 theme for VS Code 🎉
