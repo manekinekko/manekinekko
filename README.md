@@ -27,6 +27,11 @@ A Windows NT/2000 theme for VS Code 🎉
 
 ![](https://raw.githubusercontent.com/manekinekko/windows-nt-vscode-theme/main/docs/windows-nt-vs-code-theme-banner.jpg)
 
+### [Photo Booth App](https://photobooth.wassim.dev)
+A photobooth app, instagram-like, that applies filters using WebGl and Shaders to your selfies. It has support machine learning Neural Style Transfer for even more cool effects!
+
+![](https://photobooth.wassim.dev/assets/app.png)
+
 ### [xLayers.dev](https://xLayers.dev) ([sponsor xLayers](https://opencollective.com/xlayers))
 xLayers is a community-driven effort to bridge the gap between designers, who implement the UI sketch and developers who implement the code from these design sketches. Put simply, xLayers is a code generation tool for your design sketches: use xLayers to instantly scaffold your components out of your design.
 
