@@ -9,6 +9,7 @@ I'm Wassim, I create tools for developers. I am a long time Angular active contr
 ## My latest sketch note...
 
 ![what happens when you type in an URL in a address bar in a browser](https://pbs.twimg.com/media/EcmG_g4WoAI2rTv?format=jpg&name=large)
+> CC BY-NC-SA 4.0
 
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=manekinekko&count_private=true&show_icons=true&theme=synthwave" />-->
 
