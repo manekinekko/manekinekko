@@ -11,6 +11,9 @@ I'm Wassim, I create tools for developers. I am a long time Angular active contr
 ![what happens when you type in an URL in a address bar in a browser](https://pbs.twimg.com/media/EcmG_g4WoAI2rTv?format=jpg&name=large)
 > CC BY-NC-SA 4.0
 
+![the-developer-advocate-iceberg](https://user-images.githubusercontent.com/1699357/140733372-0e84eef9-641e-42e3-8b54-5cbb818f1359.jpeg)
+> CC BY-NC-SA 4.0
+
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=manekinekko&count_private=true&show_icons=true&theme=synthwave" />-->
 
 ## My latest projects...
