@@ -1,4 +1,4 @@
-## Hey there! Nice to see you here!
+## Hey there!
 
 I'm Wassim, I create tools for developers. I am a long-time Angular active contributor. I work at Microsoft as a Senior Developer Advocate specialized in JavaScript. I am the creator of [thudr.dev](https://thundr.dev), [xlayers.dev](https://xlayers.dev), [ngx.tools](https://www.ngx.tools), [hexa.run](https://www.hexa.run), [async-await.xyz](https://async-await.xyz), and other projects. I am also a [GDE for Google](https://developers.google.com/community/experts/directory/profile/profile-wassim_chegham) and an [ambassador for Auth0](https://auth0.com/ambassador-program).
 
