@@ -6,7 +6,7 @@ I'm Wassim, I create tools for developers. I am a long-time Angular active contr
 <a href="https://www.buymeacoffee.com/wassimchegham" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" height="40px" ></a>&nbsp;<a href="https://ecologi.com/wassimchegham?r=5facf70521660a001d024120"><img src="https://img.shields.io/badge/Buy%20me%20a%20tree-%F0%9F%8C%B3-lightgreen?style=for-the-badge" height="40px" alt="Buy us a tree"/></a>
 </p>
 
-## My latest sketch note...
+## My latest sketch notes...
 
 ![what happens when you type in an URL in a address bar in a browser](https://pbs.twimg.com/media/EcmG_g4WoAI2rTv?format=jpg&name=large)
 > CC BY-NC-SA 4.0
