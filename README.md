@@ -51,12 +51,12 @@ Choose a unique and creative cat's name
 
 ![image](https://user-images.githubusercontent.com/1699357/91197978-44e18980-e6fc-11ea-8ca0-51c1e6033b56.png)
 
-### [Hue Action](https://www.hueaction.dev) 
+### [Hue Action](https://hueaction.dev) 
 Github Action: Trigger your Philips Hue lights from your Github workflow.
 
 ![](https://user-images.githubusercontent.com/1699357/76635352-a72c4080-6547-11ea-9afc-5ee3dfed3d05.png)
 
-### [Hexa](https://www.hexa.run) 
+### [Hexa](https://hexa.run) 
 The ultimate companion for the Azure CLI. Setup and deploy in seconds.
 
 ![](https://user-images.githubusercontent.com/1699357/74333685-bf6a3d80-4d98-11ea-90b3-335708599c2c.png)
