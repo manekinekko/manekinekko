@@ -24,6 +24,12 @@ The ultimate backend as a service for Microsoft Azure (hosting, storage, authent
 
 ![](https://thundr.dev/thundr-twitter-card.png)
 
+### [Azure Static Web Apps CLI](https://aka.ms/swa-cli)
+
+The official Azure Static Web Apps CLI.
+
+![image](https://user-images.githubusercontent.com/1699357/151663077-d2a238ad-1d56-41d4-86dd-ca98b6c9d70b.png)
+
 
 ### [Windows NT/2000 theme for VS Code](https://marketplace.visualstudio.com/items?itemName=wassimdev.windows-nt-vscode-theme&ssr=true)
 
