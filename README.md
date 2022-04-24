@@ -11,7 +11,7 @@ I'm Wassim, I create tools for developers. I am a long-time Angular active contr
 
 #### How I controlled a coffee machine with my... Brain!
 <a title="Click to play" href="https://www.youtube.com/watch?v=bd159jmJfGE">
-  <img src="http://img.youtube.com/vi/bd159jmJfGE/0.jpg" height="800px" alt="Controlling a coffee machine with my... Brain!" />
+  <img src="http://img.youtube.com/vi/bd159jmJfGE/0.jpg" width="830px" alt="Controlling a coffee machine with my... Brain!" />
 </a>
 
 ## My latest sketch notes...
