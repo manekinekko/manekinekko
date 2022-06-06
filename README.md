@@ -41,6 +41,8 @@ I'm Wassim, I create tools for developers. I am a long-time Angular active contr
 
 ## My latest projects...
 
+### [Game Boy Nintendo with CSS](https://dorian-tested-appliance.glitch.me/)
+
 The Nintendo Game Boy built only with CSS 🔥
 
 ![image](https://user-images.githubusercontent.com/1699357/172133700-59ca9082-9234-4ee6-b160-64c63f5fb3c5.png)
