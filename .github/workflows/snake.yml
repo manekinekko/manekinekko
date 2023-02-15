@@ -1,12 +1,16 @@
 name: github-snake
 
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-
+  # run automatically every 12 hours
+  schedule:
+    - cron: "0 */12 * * *" 
+  
   workflow_dispatch:
+
+  # run on every push on the main branch
+  push:
+    branches:
+    - main
 
 jobs:
   generate:
