@@ -3,7 +3,7 @@ src="https://img.shields.io/twitter/follow/manekinekko?logo=twitter&style=for-th
 /></a><a href="https://www.github.com/manekinekko" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/manekinekko?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" height="20px" /></a></h2>
 
-I'm Wassim, I create tools for developers. I am a long-time Angular active contributor. I work at Microsoft as a Senior Developer Advocate Engineer specialized in JavaScript. I am the creator of [thundr.dev](https://thundr.dev), [xlayers.dev](https://xlayers.dev), [ngx.tools](https://www.ngx.tools), [hexa.run](https://www.hexa.run), and many more (see below). I am also a [GDE for Google](https://g.dev/wassimchegham).
+I'm Wassim, I create tools for developers. I am a contributor to Angular, Node.js core and also a Bytecodealliance recognized contributors. I work at Microsoft as a Senior Developer Advocate Engineer specialized in JavaScript. I am the creator of [thundr.dev](https://thundr.dev), [xlayers.dev](https://xlayers.dev), [ngx.tools](https://www.ngx.tools), [hexa.run](https://www.hexa.run), and many more (see below). I am also a [GDE for Google](https://g.dev/wassimchegham).
 
 ### My GitHub Stats
 
